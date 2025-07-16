@@ -2,6 +2,6 @@ Flask==3.0.2
 pysrt==1.1.2
 beautifulsoup4==4.12.3
 deep-translator==1.11.4
-
+gunicorn
 requests~=2.32.4
 tqdm~=4.67.1
